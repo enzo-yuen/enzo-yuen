@@ -1,4 +1,4 @@
-l## Hi there 👋
+## Hi there 👋
 
 I'm Enzo, a CS student at Rutgers University
 
