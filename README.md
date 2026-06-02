@@ -2,7 +2,7 @@
 
 I'm Enzo, a CS student at Rutgers University
 
-currently exploring different areas of software development to see where I can build the coolest things
+currently exploring different areas of CS to see where I can build the coolest things
 
 ### skills
 *   **Languages:** Python, Java
