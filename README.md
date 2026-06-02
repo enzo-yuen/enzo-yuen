@@ -1,10 +1,17 @@
 l## Hi there 👋
 
-I'm Enzo, a student at Rutgers University
+I'm Enzo, a CS student at Rutgers University
+
+currently exploring different areas of software development to see where I can build the coolest things
 
 ### skills
 *   **Languages:** Python, Java
 *   **Databases & Data:** SQL (PostgreSQL/MySQL), NumPy, Pandas
+
+### fun facts
+*   i don't mess with coffee
+*   i have a crusty white dog
+*   hobbies: playing instruments, bouldering, audio mixing
 
 
 
