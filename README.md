@@ -1,4 +1,12 @@
-## Hi there 👋
+l## Hi there 👋
+
+I'm Enzo, a student at Rutgers University
+
+### skills
+*   **Languages:** Python, Java
+*   **Databases & Data:** SQL (PostgreSQL/MySQL), NumPy, Pandas
+
+
 
 <!--
 **enzo-yuen/enzo-yuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
